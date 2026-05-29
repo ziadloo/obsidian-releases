@@ -29858,7 +29858,7 @@
     "id": "obsidian-local-rest-api-second-brain-mcp",
     "name": "Local REST API Second Brain MCP Extension",
     "author": "Mehran Ziadloo",
-    "description": "This plugin is an extension (or \"meta-plugin\") for the Obsidian Local REST API plugin. It transforms your Obsidian vault into a powerful, AI-ready \"Second Brain\" by exposing a specialized MCP server endpoint to query your wiki using semantic and graph search search.",
+    "description": "This plugin is an extension (or \"meta-plugin\") for the Obsidian Local REST API plugin. It transforms your Obsidian vault into a powerful, AI-ready \"Second Brain\" by exposing a specialized MCP server endpoint to query your wiki using semantic and graph search.",
     "repo": "ziadloo/obsidian-local-rest-api-second-brain-mcp-extension"
   }
 ]
